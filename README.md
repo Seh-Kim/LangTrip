@@ -79,7 +79,7 @@
 <br/>
 
 ## 🎬 시연영상
-> 시연 영상은 추후 업로드 예정입니다.
+(https://youtu.be/Gdn4_mokelI)
 
 <br/>
 
