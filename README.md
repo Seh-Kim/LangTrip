@@ -79,7 +79,7 @@
 <br/>
 
 ## 🎬 시연영상
-https://youtu.be/Gdn4_mokelI
+[![Video Label](http://img.youtube.com/vi/Gdn4_mokelI/0.jpg)](https://youtu.be/Gdn4_mokelI) 
 
 <br/>
 
