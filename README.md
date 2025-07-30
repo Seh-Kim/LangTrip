@@ -1,6 +1,7 @@
 # 🌍 LangTrip - 외국어 학습 특화 이러닝 플랫폼
 
-![logo](https://github.com/user-attachments/assets/5acd9fdf-7c58-496e-a42c-b48220a907c9)
+<img width="1024" height="1024" alt="KakaoTalk_20250728_213153547" src="https://github.com/user-attachments/assets/d8e0d13c-aa7b-43c8-a294-f34caa1018db" />
+
 
 <br/>
 
